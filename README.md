@@ -12,5 +12,5 @@ The testing process reveals many details that are usually overlooked.
 
 You start with the fundementals, with the most basic ideas.
 
-It is very important not to overwhelm one's self with concepts and ideas. 
+It is very important not to overwhelm one's self with concepts and ideas. It is enough to tackle one idea at a time, till one masters it.
 Testing one basic principle at a time.
