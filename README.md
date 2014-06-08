@@ -10,4 +10,4 @@ To make sure you understand a concept, one must test their understanding.
 
 The testing process reveals many details that are usually overlooked.
 
-You start with the fundementals. With the most basic ideas.
+You start with the fundementals, with the most basic ideas.
