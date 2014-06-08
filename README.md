@@ -11,3 +11,5 @@ To make sure you understand a concept, one must test their understanding.
 The testing process reveals many details that are usually overlooked.
 
 You start with the fundementals, with the most basic ideas.
+
+Testing one basic principle at a time.
