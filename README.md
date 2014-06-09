@@ -19,4 +19,4 @@ I must say, you will feel that you are not progressing much, and that you need t
 
 Patience and perspective are very important qualities to keep throughout your learning process.
 
-Sometimes, one must test the extreme.
+Sometimes, one must test the extremes.
